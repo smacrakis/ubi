@@ -25,7 +25,7 @@ User Behavior Insights (UBI) is a proposed **standard open source format to defi
 
 ## 🥘 Why use it
 
-Many Search teams struggle with understanding "Why is my user doing this". They understand of incoming queries and often the documents returned, but no ability to connect the dots with an indicator of success ("conversion"), such as a click through event or add to cart event.
+Many Search teams struggle with understanding "Why is my user doing this". They understand the incoming queries and often the documents returned, but have no ability to connect the dots with an indicator of success ("conversion"), such as a click through event or add to cart event.
 
 There are A LOT of tools out there for tracking events, Google Analytics, Snowplow, etc, but each is a bit different, and each tends to lock you in. None of them address the specific unique needs of Search teams.
 
